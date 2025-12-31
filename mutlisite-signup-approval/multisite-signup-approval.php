@@ -3,7 +3,7 @@
  * Plugin Name: Multisite Signup Approval
  * Description: Adds a site request field to user registration and lets network admins approve requests before creating a subsite.
  * Version:     1.0.0
- * Author:      Your Name
+ * Author:      Joseph Galea
  * Network:     true
  */
 

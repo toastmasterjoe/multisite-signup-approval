@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Network Upload Size Limit
  * Description: Limits upload size based on a value configured in Network Admin. Works on multisite as a must-use plugin.
- * Author: Your Name
+ * Author: Joseph Galea
  * Version: 1.0
  */
 
